@@ -6,7 +6,6 @@ function cleanTheRoom() {
     array.sort((a, b) => a - b);
 
     // "Group together" the same element with subarrays
-    debugger;
 
     let result = [];
     let subArray;
